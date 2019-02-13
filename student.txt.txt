@@ -1,0 +1,3 @@
+student name: Chung Hey Lam
+student number: 639171	
+student class: 1Fa 
